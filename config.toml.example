@@ -1,0 +1,7 @@
+# ================= QQ 官方机器人凭证 =================
+# 请将本文件复制为 config.toml 并填入你的凭证
+appid = "YOUR_APP_ID"
+appsecret = "YOUR_APP_SECRET"
+
+# ================= 节点个性化配置 =================
+node_name = "YOUR_NODE_NAME"
